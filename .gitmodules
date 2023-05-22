@@ -1,0 +1,3 @@
+[submodule "adaslove"]
+	path = adaslove
+	url = git@github.com:Adathelove/adaslove.git
