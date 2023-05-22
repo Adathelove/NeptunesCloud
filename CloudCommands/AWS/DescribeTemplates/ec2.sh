@@ -8,3 +8,5 @@ script_include "util.sh"
 
 UTIL_PREFIX=":$(basename $(pwd))"
 info "Let's Describe Something"
+
+aws ec2 describe-instances
